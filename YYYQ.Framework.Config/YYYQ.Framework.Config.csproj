@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AspectCore.Extensions.DependencyInjection" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
+    <PackageReference Include="Com.Ctrip.Framework.Apollo" Version="1.5.0.1" />
+    <PackageReference Include="Com.Ctrip.Framework.Apollo.Configuration" Version="1.5.0.1" />
+    <PackageReference Include="Com.Ctrip.Framework.Apollo.ConfigurationManager" Version="1.5.0.1" />
+  </ItemGroup>
+</Project>
